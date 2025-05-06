@@ -193,16 +193,16 @@
     ],
     "encoders": [
         [
-            { "ccw": "KC_VOLD", "cw": "KC_VOLU" },
-            { "ccw": "KC_PGUP", "cw": "KC_PGDN" }
+            { "ccw": "KC_RIGHT", "cw": "KC_LEFT" },
+            { "ccw": "KC_UP", "cw": "KC_DOWN" }
         ],
         [
-            { "ccw": "KC_VOLD", "cw": "KC_VOLU" },
-            { "ccw": "KC_PGUP", "cw": "KC_PGDN" }
+            { "ccw": "KC_TRNS", "cw": "KC_TRNS" },
+            { "ccw": "KC_BRIU", "cw": "KC_BRID" }
         ],
         [
-            { "ccw": "KC_VOLD", "cw": "KC_VOLU" },
-            { "ccw": "KC_PGUP", "cw": "KC_PGDN" }
+            { "ccw": "KC_VOLU", "cw": "KC_VOLD" },
+            { "ccw": "KC_MNXT", "cw": "KC_MPRV" }
         ]
     ],
     "config": {
